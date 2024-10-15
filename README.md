@@ -8,8 +8,10 @@ The dataset consists of various attributes of luxury fashion items, including pr
 
 ## Features
 
+- **Data Collection**: through flat file from Kaggle and Web scraping
 - **Data Cleaning**: Handle missing values and standardize data formats to ensure consistency.
 - **Exploratory Data Analysis (EDA)**: Employ visualization techniques to uncover patterns and distributions across multiple dimensions, such as price trends by brand and condition.
+- **SQL** : Databse creation, ERD and SQL Queries
 - **Statistical Tests**: Perform chi-squared and ANOVA tests to determine associations and significant differences in product attributes.
 - **Geographical Insights**: Analyze seller countries to identify regional trends in the luxury market.
 - **Recommendations**: Suggest potential strategies for buyers and sellers to maximize value.
@@ -18,8 +20,10 @@ The dataset consists of various attributes of luxury fashion items, including pr
 
 - **Python**: Used for data manipulation and analysis.
 - **Pandas**: Leveraged for DataFrame operations.
+- **SQL**: database storage and queries.
 - **SciPy/Statsmodels**: Utilized for performing statistical tests.
 - **Matplotlib/Seaborn**: Visualize data through charts and graphs.
+- **Flask**: API creation to showcase data.
 - **Jupyter Notebook**: Document the analysis and findings.
 - **Tableau**: Vizualizations
 
