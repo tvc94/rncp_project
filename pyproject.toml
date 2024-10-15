@@ -1,0 +1,22 @@
+[project]
+name = "second-hand-luxury-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.3",
+    "numpy>=2.1.1",
+    "matplotlib>=3.9.2",
+    "scikit-learn>=1.5.2",
+    "seaborn>=0.13.2",
+    "plotly>=5.24.1",
+    "jupyter>=1.1.1",
+    "ipykernel>=6.29.5",
+    "beautifulsoup4<=4.12.3",
+    "flask=3.0.3",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
